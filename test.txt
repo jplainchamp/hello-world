@@ -1,4 +1,2 @@
-Bonjour,
-Ceci est un test
+La page index.html est un fichier me servant de base pour la création de nouvelle page HTML pour mes projets dans lesquels j'utilise bootstrap.
 
-Ajout d'une modification en ligne
